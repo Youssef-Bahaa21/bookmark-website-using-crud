@@ -1,0 +1,30 @@
+body {
+  background-color: #f7ecde;
+  font-family: "PT Sans Caption", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: "Pacifico", cursive;
+  color: #352e28;
+  isolation: isolate;
+}
+
+h2 {
+  font-family: "Righteous", cursive;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 1.2;
+
+  background-image: linear-gradient(to right, #3ca55c, #f6e100);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.content {
+  border-top: 2px dotted #000000;
+  margin: 20px 0;
+  padding-top: 10px;
+}
